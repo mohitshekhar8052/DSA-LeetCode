@@ -1,27 +1,17 @@
 class Solution {
-    int n;
-    Integer DP[][];
     public int maxSumDivThree(int[] nums) {
-        this.n = nums.length;
-        this.DP = new Integer[n][3];
-        int ans = solve(nums,0,0);
-        return (ans<0)?0:ans;
-    }
-
-    public int solve(int nums[],int idx, int mod){
-        if(idx == nums.length){
-            return(mod == 0)?0:Integer.MIN_VALUE;
+        int[] dp = new int[]{0, Integer.MIN_VALUE, Integer.MIN_VALUE};
+        for (int val : nums) {
+            int[] next = dp.clone();
+            for (int r = 0; r < 3; r++) {
+                if (dp[r] != Integer.MIN_VALUE) {
+                    int newSum = dp[r] + val;
+                    int newRem = (r + val % 3) % 3;
+                    next[newRem] = Math.max(next[newRem], newSum);
+                }
+            }
+            dp = next;
         }
-        if(DP[idx][mod] != null){
-            return DP[idx][mod];
-        }
-        int exclude = solve(nums, idx + 1, mod);
-
-        int child = solve(nums, idx + 1, (mod + (nums[idx] % 3)) % 3);
-        int include = (child == Integer.MIN_VALUE) ? Integer.MIN_VALUE : nums[idx] + child;
-
-        int res = Math.max(include, exclude);
-        DP[idx][mod] = res;
-        return res;
+        return Math.max(dp[0], 0);
     }
 }
