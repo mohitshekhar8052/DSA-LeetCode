@@ -15,6 +15,7 @@ This is For Consistancy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ This is For Consistancy
 | [0094-binary-tree-inorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
