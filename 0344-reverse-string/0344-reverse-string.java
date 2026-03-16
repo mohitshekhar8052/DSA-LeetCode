@@ -8,7 +8,8 @@ class Solution {
 
         int i = 0;
         while(!st.isEmpty()){
-            s[i++] = st.pop();
+            s[i] = st.pop();
+            i++;
         }
     }
 }
