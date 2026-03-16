@@ -14,6 +14,7 @@ This is For Consistancy
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -55,4 +56,8 @@ This is For Consistancy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
