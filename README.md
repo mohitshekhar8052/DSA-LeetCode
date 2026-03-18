@@ -7,6 +7,7 @@ This is For Consistancy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0495-teemo-attacking](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ This is For Consistancy
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0495-teemo-attacking](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0495-teemo-attacking/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
