@@ -39,6 +39,7 @@ This is For Consistancy
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
@@ -46,6 +47,7 @@ This is For Consistancy
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
@@ -53,6 +55,7 @@ This is For Consistancy
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 ## Dynamic Programming
@@ -71,4 +74,5 @@ This is For Consistancy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
+| [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
