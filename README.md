@@ -42,6 +42,7 @@ This is For Consistancy
 | [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ This is For Consistancy
 | [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@ This is For Consistancy
 | [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +78,5 @@ This is For Consistancy
 | ------- | ------- |
 | [0100-same-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0101-symmetric-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
