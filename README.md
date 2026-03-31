@@ -43,6 +43,7 @@ This is For Consistancy
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -52,6 +53,7 @@ This is For Consistancy
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +63,7 @@ This is For Consistancy
 | [0144-binary-tree-preorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mohitshekhar8052/DSA-LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
